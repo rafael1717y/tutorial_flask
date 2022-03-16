@@ -14,6 +14,13 @@ if __name__ == 'main':
     app.run()
 
 
-# Fazer no windows ao invés de python app.py-> 
-# set FLASK_App=app.py
-# flask run
+"""
+# Aula 2 - Resumo para criação do ambiente
+>> -----------------------------------<<
+01. python -m venv env
+02. pip install virtualenv
+03. virtualenv env
+04. source env/Scripts/activate
+05. set FLASK_APP = app.py
+06. flask run
+"""
